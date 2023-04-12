@@ -1,6 +1,7 @@
 {
   "name": "vite-react-starter",
   "private": true,
+  "homepage": "https://thomalmeidard.github.io/teste-react-ss/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
